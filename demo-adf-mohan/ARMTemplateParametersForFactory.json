@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "demo-adf-mohan"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"EventTrigger_properties_typeProperties_scope": {
+			"value": "/subscriptions/dc22f151-57c0-4411-b80d-0bc6f53f5061/resourceGroups/adf-rg/providers/Microsoft.Storage/storageAccounts/mohanrasstorage123"
+		}
+	}
+}
