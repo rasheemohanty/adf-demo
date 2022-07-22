@@ -1,0 +1,9 @@
+{
+	"name": "demo-adf-mohan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "288210b0-00b5-4589-95e5-08d320a75321",
+		"tenantId": "3db47d17-4b7b-4ef0-80f9-6d57825d28c2"
+	}
+}
